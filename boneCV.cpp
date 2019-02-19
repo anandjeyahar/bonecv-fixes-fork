@@ -6,11 +6,12 @@
  * Redistribution and use in source and binary forms, with or without modification, are permitted
  * provided that source code redistributions retain this notice.
  *
- * This software is provided AS IS and it comes with no warranties of any type. 
+ * This software is provided AS IS and it comes with no warranties of any type.
  */
 
 #include<iostream>
 #include<opencv2/opencv.hpp>
+#include<opencv2/videoio.hpp>
 using namespace std;
 using namespace cv;
 
